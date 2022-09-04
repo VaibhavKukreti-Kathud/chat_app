@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "137306178019",
+    "project_id": "property-dealing-app-b34ac",
+    "storage_bucket": "property-dealing-app-b34ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137306178019:android:925ec9b7a6fb863ec4a0d6",
+        "android_client_info": {
+          "package_name": "com.vaibhavkukreti.olx_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137306178019-r6qeqv3q8e9610mrpmq2pevit46q48jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-w-AgfOZYtwCOKFUjxtAyqT-V8OJIRWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137306178019-r6qeqv3q8e9610mrpmq2pevit46q48jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
